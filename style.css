@@ -1,0 +1,39 @@
+h1	{
+	color:violet;
+	background: beige;
+	text-align: center;
+	font-size: 64px;
+	font-family: arial, sans-serif;
+}
+
+p	{color:brown;
+}
+
+img{width:300px;hight:500px;
+border-radius: 12px;
+}
+
+a {
+margin:0 auto;
+width: 30%;
+padding:20px 10px;
+text-decoration: none;
+background-color: whitesmoke;
+border: 2px solid violet;
+border-radius: 8px;
+box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.75);
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(30,121,9,1) 0%, rgba(6,133,173,1) 60%, rgba(0,160,255,1) 100%);
+}
+
+div {
+	background-color: lightgoldenrodyellow;
+	border-radius: 8px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 20px auto;
+	padding: 0px;
+	width: 600px;
+	box-shadow: 4px 4px 2px 0px rgba(0, 0, 0, 0.7);
+}
